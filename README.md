@@ -1,12 +1,12 @@
-** Laravel Project: Admin, Customer, and Driver Management System**
+<strong> Laravel Project: Admin, Customer, and Driver Management System</strong>
 
-** Project Overview**
+Project Overview
 
 This Laravel project is designed to manage the interactions between three types of users: Admin, Customer, and Driver. The system includes user registration and verification processes, order tracking, KYC (Know Your Customer) verification, and wallet management. The admin has comprehensive control over user accounts and can broadcast messages, adjust wallet balances, and set pricing parameters.
 
  **Features**
 
-** User Management**
+ User Management
 
 - Customer and Driver Signup: 
   - Both customers and drivers can sign up for the service.
